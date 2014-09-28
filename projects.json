@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Front End Creator",
+		"slug": "sass-helper",
+		"repo": "git@bitbucket.org:DRab7792/sass-helper.git",
+		"script": "index.js",
+		"folder": "sassHelper"
+	}
+]
